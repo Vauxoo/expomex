@@ -22,3 +22,7 @@
 	path = l10n-mx-edi-related-documents
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-related-documents.git
 	branch = 18.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:Vauxoo/sale-workflow.git
+	branch = 18.0
