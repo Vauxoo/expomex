@@ -26,3 +26,6 @@
 	path = sale-workflow
 	url = git@github.com:Vauxoo/sale-workflow.git
 	branch = 18.0
+[submodule "l10n-mx-partner-blocklist"]
+	path = l10n-mx-partner-blocklist
+	url = git@git.vauxoo.com:mexico/l10n-mx-partner-blocklist.git
