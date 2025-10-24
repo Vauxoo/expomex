@@ -30,3 +30,7 @@
 	path = l10n-mx-edi-payment-policy
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-payment-policy.git
 	branch = 18.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 18.0
