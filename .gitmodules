@@ -34,3 +34,7 @@
 	path = l10n-mx-partner-blocklist
 	url = git@git.vauxoo.com:mexico/l10n-mx-partner-blocklist.git
 	branch = 18.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 18.0
